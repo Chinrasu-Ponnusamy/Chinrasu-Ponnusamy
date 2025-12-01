@@ -12,7 +12,10 @@ As a dedicated MERN Stack Developer, my current focus is on creating cutting-edg
 ![](https://nirzak-streak-stats.vercel.app/?user=Chinrasu-Ponnusamy&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinrasu-Ponnusamy&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chinrasu-Ponnusamy&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Chinrasu-Ponnusamy&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Chinrasu-Ponnusamy&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
